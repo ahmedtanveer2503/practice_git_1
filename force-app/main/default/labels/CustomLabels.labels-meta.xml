@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>test_label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>test label</shortDescription>
+        <value>test1</value>
+    </labels>
+    <labels>
+        <fullName>testing_1234</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>testing 1234</shortDescription>
+        <value>i am testing this</value>
+    </labels>
+    <labels>
+        <fullName>testlabel222</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>test label 12</shortDescription>
+        <value>testttt</value>
+    </labels>
+</CustomLabels>
