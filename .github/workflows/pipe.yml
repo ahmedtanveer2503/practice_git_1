@@ -82,7 +82,7 @@ jobs:
           else
             echo "AUTH_URL=${SALESFORCE_AUTH_URL_DEV}" >> "$GITHUB_ENV"
             echo "TEST_LEVEL=NoTestRun" >> "$GITHUB_ENV"
-            echo "ENV_NAME=DEV" >> "$GITHUB_ENV"
+            echo "ENV_NAME=DEVELOP" >> "$GITHUB_ENV"
           fi
 
       - name: Authenticate to Salesforce
